@@ -3,10 +3,10 @@
 The Real-Time Rule Evaluation System is a web-based platform that allows users to create custom rules using logical expressions and evaluate them against provided data. It supports complex rules with nested conditions and offers robust error handling for invalid inputs or rule structures. The system is built using React.js for the frontend, Express.js for the backend, and MongoDB for data storage.
 
 ### Tech Stack
-     - Frontend: React.js, Axios, CSS
-     - Backend: Node.js, Express.js
-     - Database: MongoDB with Mongoose for data persistence
-      - Others: Axios for API requests, Express middleware for request validation
+     *Frontend: React.js, Axios, CSS
+     *Backend: Node.js, Express.js
+     *Database: MongoDB with Mongoose for data persistence
+      *Others: Axios for API requests, Express middleware for request validation
 
 ### Installation and Setup
 
