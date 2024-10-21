@@ -8,6 +8,17 @@ The Real-Time Rule Evaluation System is a web-based platform that allows users t
 - Database: MongoDB with Mongoose for data persistence
 - Others: Axios for API requests, Express middleware for request validation
 
+### Usage
+      Create a Rule:
+      Navigate to the rule creation page.
+      Enter a rule string using logical expressions, e.g., (age > 25 AND experience >= 3) OR (salary < 50000).
+      Click Create Rule to save the rule.
+      
+      Evaluate User Data:
+      Provide user details like age, salary, experience, and department.
+      Click Evaluate to see if the provided data satisfies the rule.
+      The result will display whether the rule is met (true) or not (false).
+
 ### Installation and Setup
 
 ## 1.Clone the Repository:
