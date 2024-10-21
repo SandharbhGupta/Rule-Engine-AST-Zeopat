@@ -6,8 +6,8 @@ The Real-Time Rule Evaluation System is a web-based platform that allows users t
 
 ## 1.Clone the Repository:
 
-git clone https://github.com/yourusername/rule-evaluation-system.git
-cd rule-evaluation-system
+      git clone https://github.com/yourusername/rule-evaluation-system.git
+      cd rule-evaluation-system
 
 ## 2. Setting Up the Backend
       Navigate to the backend folder and install dependencies:
