@@ -18,6 +18,10 @@ The Real-Time Rule Evaluation System is a web-based platform that allows users t
       Provide user details like age, salary, experience, and department.
       Click Evaluate to see if the provided data satisfies the rule.
       The result will display whether the rule is met (true) or not (false).
+      
+## Bonus:
+● Implemented error handling for invalid rule strings or data formats (e.g., missing operators,
+invalid comparisons).
 
 ### Installation and Setup
 
